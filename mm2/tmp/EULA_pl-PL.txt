@@ -1,0 +1,890 @@
+﻿GOG.COM Umowa Użytkownika
+
+##  1\. O NINIEJSZEJ UMOWIE
+
+1.1. Niniejszy dokument stanowi umowę pomiędzy Tobą (dalej: “Ty”, “Ciebie”,
+“Tobie” itp.) a GOG sp. z o.o., ul. Jagiellońska 74, 03-301 Warszawa (dalej:
+„GOG”) i dotyczy portalu www.GOG.COM, konta użytkownika GOG, Aplikacji GOG
+GALAXY (w tym sklepu GOG GALAXY), wszystkich gier, filmów i innych treści oraz
+usług, jakie możesz zakupić lub wykorzystywać za pośrednictwem GOG.COM, forów
+GOG, wsparcia klienta i wsparcia technicznego GOG oraz innych usług, które
+świadczymy naszym użytkownikom (łącznie zwanych w skrócie „Usługami GOG”).
+Tutaj wskazujemy Twoje prawa i obowiązki jako odbiorcy Usług GOG.
+
+  
+
+1.2 Ponadto, do Usług GOG mogą mieć zastosowanie dodatkowe warunki, które mogą
+zostać przedstawione do twojej akceptacji. Jeśli na przykład będziesz chciał
+korzystać z Aplikacji GOG GALAXY, przedstawimy Ci odpowiednie warunki do
+akceptacji, zanim zaczniesz korzystać z aplikacji lub grać w GWINTA.
+
+  
+
+1.3. Skoro już mówimy o grach, wszystkie treści w grach, przedmioty i waluty
+wirtualne, filmy GOG i inne treści oraz usługi, jakie możesz zakupić lub
+wykorzystywać w ramach Usług GOG, będziemy dalej nazywać odpowiednio „grami
+GOG”, „filmami GOG” lub też wszystkie łącznie „treściami GOG”.
+
+  
+
+1.4 Nie chcieliśmy, żeby ten dokument był zbyt długi, ale pamiętaj, że
+akceptując tę Umowę, akceptujesz również:
+
+  * naszą [ Politykę Prywatności ](https://support.gog.com/hc/articles/212632109) \- która wyjaśnia jakie dane zbieramy od Ciebie i w jaki sposób je chronimy, 
+
+  * [ Zasady Postępowania na GOG ](https://support.gog.com/hc/articles/16033977811613) które zawierają zbiór zasad, które musisz przestrzegać jako członek naszej społeczności, oraz tłumaczące, co jest (nie)dozwolone na GOG i jak moderujemy treści opublikowane na GOG, 
+
+  * [ Politykę treści naruszających i dot. praw autorskich ](https://support.gog.com/hc/articles/16033687971613) która tłumaczy jak możesz zgłaszać treści naruszające prawo i zasady GOG i co się wydarzy po Twoim zgłoszeniu. 
+
+  
+
+1.5. GOG współpracuje z zaufanymi partnerami, w tym spółką powiązaną CD
+PROJEKT S.A., deweloperami i wydawcami, dostawcami metod płatności,
+oprogramowania do obsługi klienta i innymi podmiotami („Partnerzy”). Więcej
+informacji na ich temat znajdziesz się w dalszej części tej Umowy.
+
+  
+
+1.6. Jeżeli masz ukończone 18 lat, zapraszamy! Jeżeli jesteś pomiędzy 16 a 18
+rokiem życia, poproś swojego rodzica lub opiekuna o przeczytanie i
+zaakceptowanie tej Umowy w Twoim imieniu, zanim będziemy mogli równie ciepło
+Cię przywitać (w niektórych krajach osoby poniżej określonego wieku nie mogą
+zawierać wiążących prawnie umów takich jak nasza). Jeśli nie masz 16 lat, nie
+możesz posiadać konta GOG i korzystać z usług GOG ze względu na fakt, że
+zgodnie z obowiązującym prawem nie możemy przetwarzać danych osobowych dzieci
+bez szczególnego pozwolenia ich rodzica lub opiekuna (oczywiście nie ma
+przeszkód, by sami rodzice/opiekunowie stworzyli konto GOG).  
+  
+2\. KORZYSTANIE Z USŁUG GOG I TREŚCI GOG
+
+2.1. Udzielamy Ci osobistego prawa (zwanego „licencją”) do korzystania z usług
+GOG oraz pobierania, dostępu lub streamowania oraz korzystania z treści GOG.
+Licencja ta przeznaczona jest do Twojego użytku osobistego. Licencję tę możemy
+zawiesić lub anulować w określonych sytuacjach, wyjaśnionych poniżej.
+
+  
+
+2.2. Gdy kupujesz, otrzymujesz dostęp lub instalujesz gry GOG możesz zostać
+poproszony o akceptację dodatkowych warunków umowy z deweloperem/wydawcą gry
+(np. akceptacji umowy EULA dotyczącej konkretnej gry). W przypadku
+rozbieżności pomiędzy taką umową EULA a niniejszą Umową, niniejsza Umowa jest
+nadrzędna.
+
+  
+
+2.3 W przypadku filmów GOG, możesz streamować zakupione treści wideo lub
+pobrać je i oglądać w wybrany przez siebie sposób.
+
+  
+
+2.4 Aby zapewnić pełną funkcjonalność GOG.COM, zalecamy korzystanie ze
+skryptów zewnętrznych. Ich wykorzystanie jest opcjonalne, ale bez nich nie
+możemy obiecać pełnej funkcjonalności.
+
+  
+
+2.5 Kilka słów o Aplikacji GOG GALAXY, która jest naszą opcjonalną usługą
+sieciową, która umożliwia kupowanie i korzystanie z treści GOG, a także
+oferuje dodatkowe funkcjonalności jak połączenie list gier z różnych platform
+w jednej bibliotece oraz list znajomych z różnych platform w jednej Aplikacji.
+GOG GALAXY to także wsparcie dla różnego rodzaju sieciowych elementów gier,
+takich jak multiplayer, śledzenie osiągnięć dla różnych platform, czat,
+śledzenie czasu gry, zapisy w chmurze oraz overlay. Więcej informacji na ten
+temat znajdziesz[tutaj](https://www.gog.com/galaxy).
+
+  
+
+2.6. W niektórych częściach usług GOG, korzystamy z systemów rekomendacji aby
+pokazać Ci treści, które najprawdopodobniej Cię zainteresują. Możesz
+dowiedzieć się gdzie z nich korzystamy i jak
+działają[tutaj](https://support.gog.com/hc/articles/16034228157213), w tym z
+jakich głównych parametrów korzystamy i jak możesz na nie wpływać.
+
+  
+  
+  
+  
+##  3\. KONTO GOG
+
+3.1. Aby kupować treści w ramach Usług GOG, musisz posiadać konto GOG. W
+niektórych przypadkach, nasi partnerzy również wymagają tego konta do
+grania/korzystania z treści GOG. Stworzenie konta GOG wymaga utworzenia hasła
+(które jest zaszyfrowane, więc nie mamy do niego dostępu) oraz nazwy
+użytkownika, a także podania nam adresu e-mail (do celów identyfikacyjnych).
+Upewnij się, że dane do logowania przechowujesz w bezpiecznym miejscu i
+prawidłowo korzystasz ze swojego konta GOG. W ustawieniach konta GOG możesz
+również opcjonalnie dodać swój kraj zamieszkania, datę urodzenia i avatar.
+Nasza Polityka prywatności zawiera więcej szczegółów na temat informacji,
+które gromadzimy, sposobu w jaki je wykorzystujemy oraz chronimy. Możesz
+znaleźć ją tu: [ Polityka Prywatności.
+](https://support.gog.com/hc/pl/articles/212632109-Privacy-Policy?product=gog)
+
+  
+
+3.2 Na swoim koncie GOG możesz ustawić profil publiczny dostępny dla innych
+osób, a także połączyć się z innymi użytkownikami GOG. Postępuj rozsądnie i
+pamiętaj, że odpowiadasz za swoje działania.
+
+  
+
+3.3 Twoje konto GOG oraz treści GOG są przypisane do Ciebie i nie możesz
+dzielić się, sprzedać, przekazać ani podarować ich innej osobie. Dostęp i
+korzystanie z nich podlega naszej [ Polityce Prywatności
+](https://support.gog.com/hc/articles/212632109?product=gog) i[Zasadom
+Postępowania na GOG](https://support.gog.com/hc/articles/16033977811613), wraz
+z ewentualnymi zmianami gdy to konieczne.
+
+  
+
+3.4. Dostęp i korzystanie z gier kupionych z innych platform (tj. Bezkluczowo,
+określanych jako Keyless Access), włączając w to minimalne wymagania
+systemowe, podlega politykom odpowiadających platform i (jeśli ma
+zastosowanie) dodatkowym warunkom umowy z twórcą/wydawcą gry, którzy mogą Cię
+poprosić o podpisanie dodatkowej umowy licencyjnej użytkownika. By mieć dostęp
+do zakupionych w ten sposób treści, może być wymagane posiadanie konta na
+danej platformie. Również od danej platformy mogą w takim przypadku zależeć
+aktualizacje i łatki do poszczególnych gier.  
+  
+##  4\. WYMAGANIA SYSTEMOWE
+
+4.1. GOG.COM umożliwia Ci dostęp do wielu różnych treści, usług gier
+tworzonych w różnych okresach i na różne platformy sprzętowe, dlatego nie
+możemy podać Ci jednego zestawu wymagań systemowych dla wszystkich usług GOG
+lub treści GOG.
+
+  
+
+4.2. Możemy Ci jednak powiedzieć, że korzystanie z jakichkolwiek gier GOG
+będzie wymagało posiadania komputera wyposażonego w myszkę i klawiaturę (brak
+wsparcia dla ekranów dotykowych) oraz odpowiedniego systemu operacyjnego
+(zajrzyj na odpowiednią stronę produktu GOG) wraz z zainstalowanymi service
+packami i ważnymi aktualizacjami. Wszystkie gry GOG powinny być natywnie
+zainstalowane na komputerze spełniającym co najmniej minimalne wymagania
+dotyczące sprzętu i oprogramowania podane na stronie produktu GOG. Gry GOG nie
+są testowane na oprogramowaniu urządzeń wirtualnych, dlatego nie wspieramy tej
+formy rozgrywki.
+
+  
+
+4.3 W przypadku filmów GOG, upewnij się, że Twój odtwarzacz plików wideo
+obsługuje format podany na stronie produktu GOG.
+
+  
+
+4.4 W przypadku pytań dotyczących wymagań systemowych, skontaktuj się z nami
+pod tym[adresem](https://support.gog.com/hc/requests/new?category=info). W
+ramach wyjaśnienia, po Twojej stronie jest zapewnienie, że posiadasz
+odpowiedni dostęp do Internetu, aby pobrać zakupione gry GOG lub filmy GOG lub
+też streamować filmy GOG, a także, że Twój system umożliwia grę w gry GOG i
+oglądanie filmów GOG.  
+  
+##  5\. WERSJE BETA
+
+5.1 W ramach rozwoju GOG możemy oferować opcjonalny dostęp do wersji beta
+oprogramowania lub usług GOG (np. nowe wersje Aplikacji GOG GALAXY dostępne
+przed ich oficjalnym wydaniem) lub treści GOG.
+
+  
+
+Poniżej przedstawiamy zasady:
+
+  
+
+a) GOG (lub odpowiedni wydawca/partner) określa wymagania i warunki dostępu do
+wersji beta. Zapewnienie dostępu i utrzymanie takiej wersji oraz decyzja o
+tym, kto może z niej korzystać należy wyłącznie do nas.
+
+b) Możesz podlegać dodatkowej rejestracji lub spełnić dodatkowe wymagania, aby
+uzyskać dostęp do wersji beta (co może obejmować kryteria kwalifikacji).
+
+c) Wersje beta są ograniczone czasowo i mogą obejmować dodatkowe wymagania
+umowne.
+
+d) Wersje beta mogą wiązać się z czasowym lub trwałym usunięciem, resetem lub
+zmianą postępów, treści czy zawartości serwerów.
+
+e) Wersja beta może podlegać zobowiązaniu do zachowania poufności (w takim
+przypadku zostaniesz o tym wcześniej powiadomiony).
+
+f) Możesz zostać poproszony o wyrażenie opinii na temat wersji beta -
+odpowiedź nie jest obowiązkowa, ale będzie dla nas bardzo cenna.
+
+g) Wersja beta przeznaczona jest do Twojego osobistego użytku i zabawy,
+dlatego nie możesz jej sprzedać, pożyczyć ani przenieść na inną osobę.
+
+h) Istotą dostępu do wersji beta jest możliwość spróbowania czegoś nowego,
+lecz musisz pamiętać, że taka wersja nie jest jeszcze kompletna. Dlatego też,
+wersje beta dostarczane są w stanie, w jakim są („as is”), bez dodatkowych
+gwarancji ani odpowiedzialności po naszej stronie za nieprawidłowe
+funkcjonowanie lub błędy. Wersje beta mogą być niepełne i podlegać zmianom,
+modyfikacjom lub korektom.
+
+  
+
+Możemy oferować dostęp do treści GOG w wersji beta/przedpremierowej. Na
+przykład, wydawca/partner może wydać grę lub jej część w formie wersji beta
+lub może dołączyć do naszego programu „Early Access” (patrz punkt 8.6 - 8.8
+poniżej). Takie treści GOG podlegają niniejszym zasadom, chyba że odpowiedni
+wydawca przedstawi swoje własne zasady (które będą wówczas nadrzędne dla
+niniejszej Umowy).  
+  
+##  6\. PŁATNOŚCI ZA TREŚCI GOG I OTRZYMANIE ZWROTU
+
+Płatności za treści GOG
+
+  
+
+6.1 Jeżeli spodoba Ci się gra GOG, film GOG lub inne treści GOG, zazwyczaj
+musisz zapłacić za nie przed uzyskaniem dostępu (ale oferujemy również treści
+darmowe!). Możesz zapłacić na różne sposoby: (i) przy użyciu ważnej karty
+debetowej lub kredytowej, (ii) przy użyciu PayPal lub innego autoryzowanego
+operatora płatności. Dane dotyczące płatności przechowuj zawsze w bezpieczny
+sposób.
+
+  
+
+6.2 Kiedy wykorzystujesz określoną formę płatności do zakupu treści GOG,
+polegamy na Twoim oświadczeniu, że możesz używać takiej metody. Odpowiadasz za
+wszystkie zakupy wykonane przy użyciu Twojego konta GOG lub metody płatności,
+a także zgadzasz się na politykę cenową, płatności i rozliczeniową podaną w
+momencie zakupu. Wszystkie płatności są bezzwrotne i nieprzenoszalne, chyba że
+niniejsza Umowa mówi inaczej.
+
+  
+
+6.3 Za treści GOG możesz zawsze zapłacić w dolarach amerykańskich. Jeżeli
+mieszkasz w kraju, którego waluta lokalna jest przez nas obsługiwana
+(szczegóły na ten temat
+znajdziesz[tutaj](https://support.gog.com/hc/articles/360001947034)), możesz
+zapłacić również w swojej walucie lokalnej. Jeżeli nie płacisz w swojej
+walucie lokalnej, możesz ponieść koszty wymiany walut, a także opłatę
+transakcyjną stosowaną przez niektóre banki.
+
+  
+
+6.4 Wszystkie ceny podane są na stronie katalogu produktów. Ceny zawierają
+podatek od towarów i usług/VAT, jeśli mają zastosowanie. Możesz także
+spodziewać się, że do ceny w koszyku zostaną doliczone podatki od
+sprzedaży/VAT, jeśli wymagają tego lokalne przepisy (np. w USA lub Kanadzie).
+
+  
+
+Portfel GOG
+
+  
+
+6.5 GOG oferuje użytkownikom wirtualne konto zwane „Portfelem GOG”, powiązane
+z kontem GOG, którego można używać do kupowania treści GOG w dedykowanych
+usługach GOG. Środki do Portfela GOG można dodawać na dwa sposoby: (i) przy
+użyciu wybranej metody płatności lub (ii) przez nas w ramach „Dobrowolnej
+Polityki Zwrotów”
+(więcej[tutaj](https://support.gog.com/hc/articles/360006129837)) \- uzyskane
+w ten sposób środki Portfela GOG możesz wykorzystać, by kupić inną grę lub
+treści dostępne w sklepie GOG. Dostęp do Portfela GOG podlega zasadom
+dostępnym[tutaj](https://support.gog.com/hc/pl/articles/360001941953-FAQ-
+Portfel-GOG?product=galaxy).
+
+  
+
+Kody Promocyjne GOG
+
+  
+
+6.6. Możemy również wydawać zwykle czasowe kody promocyjne, które zapewniają
+darmowy dostęp lub niższą cenę za treści GOG (nazywamy je „Kodami
+Promocyjnymi”). Jeżeli otrzymasz Kody Promocyjne podczas kupowania treści GOG,
+a później zdecydujesz się zwrócić taki zakup, uważamy, że najuczciwiej będzie,
+gdy zwrócisz również otrzymane Kody Promocyjne. Dlatego też Kody Promocyjne,
+zostaną wygaszone, a jeżeli zostały wydane na grę GOG, zostanie ona usunięta z
+Twojego konta.
+
+  
+
+Bezpośrednio na konto
+
+  
+
+6.7. Posiadamy funkcjonalność bezpośredniej dystrybucji na konto użytkownika
+(jej nazwa to „GOG Direct to Account”), która pozwala naszym partnerskim
+platformom dystrybucyjnym na sprzedaż gier oraz innych treści w taki sposób,
+że przy zakupie możesz wybrać, by gra lub inna treść zostały automatycznie
+aktywowane na Twoim koncie GOG bez potrzeby wykorzystywania kodów. Dla
+jasności – cały proces sprzedaży prowadzony jest przez zewnętrzną platformę,
+więc w przypadku jakichkolwiek problemów z zakupem zgłoś się bezpośrednio do
+działu odpowiedzialnego za obsługę klientów tej platformy. W sekcji niżej pt.
+„Zwroty” znajdziesz więcej informacji na ten temat. W tej konkretnej sytuacji
+nie możemy zaproponować Ci zwrotu w ramach naszej Dobrowolnej Polityki
+Zwrotów, ponieważ w tym przypadku to nie GOG jest sprzedawcą treści).
+Oczywiście nadal jesteśmy odpowiedzialni za wszystko,co dotyczy bezpośrednio
+usług naszej platformy.  
+  
+##  7\. ZWROTY
+
+Ustawowe prawo odstąpienia od umowy
+
+  
+
+7.1 Jeżeli jesteś obywatelem Unii Europejskiej, przysługuje Ci ustawowe prawo
+odstąpienia od umowy zakupu treści GOG (treści cyfrowe) w ciągu 14 dni od daty
+zakupu, bez podawania przyczyny. Aby skorzystać z prawa do odstąpienia od
+umowy, powinieneś poinformować nas o swojej decyzji o odstąpieniu od
+niniejszej umowy w drodze jednoznacznego oświadczenia (wiadomość e-mail
+wysłana na adres support@GOG.COM lub fizyczne pismo wysłane na adres wskazany
+w punkcie 23 poniżej). Możesz skorzystać ze wzoru formularza odstąpienia od
+umowy załączonego na końcu niniejszej Umowy, ale nie musisz tego robić. Aby
+dotrzymać terminu odstąpienia od umowy, wystarczy wysłać wiadomość dotyczącą
+wykonania prawa do odstąpienia od umowy przed upływem terminu do odstąpienia
+od umowy.To uprawnienie nie przysługuje Ci jednak jeśli rozpocząłeś już
+wykonanie umowy oraz wyraźnie zgodziłeś się na rozpoczęcie świadczenia czyli
+udostępnienie Ci treści GOG natychmiast po zakończeniu procesu zakupu i
+zostałeś poinformowany przez nas o utracie prawa odstąpienia od umowy.
+
+  
+
+7.2 Mamy obowiązek poinformować Cię również o sposobie korzystania z prawa
+odstąpienia, co właśnie czynimy. Aby skorzystać z ustawowego prawa zwrotu,
+musisz powiadomić nas o swojej decyzji za pomocą e-maila lub listu wysłanego
+na adres GOG podany poniżej w punkcie 23.1. W przypadku skutecznego
+odstąpienia, zwrócimy Ci całość kwoty otrzymanej za zakupione treści bez
+nieuzasadnionego opóźnienia i nie później niż w ciągu 14 dni od daty
+otrzymania powiadomienia o odstąpieniu. Do zwrotu wykorzystujemy metodę
+płatności, która została przez Ciebie wykorzystana do zrealizowania
+transakcji, chyba że wyrazisz zgodę na inną metodę zwrotu. Nie ponosisz
+żadnych opłat związanych z takim zwrotem. Wszystkie treści podlegające
+zwrotowi przestaną być dostępne na Twoim koncie GOG.
+
+  
+
+Żadne z postanowień tej Umowy (w tym powyższe) nie naruszają Twoich ustawowych
+praw. W szczególności:
+
+  
+
+a) Dla użytkowników z Australii: treści GOG objęte są gwarancją, która nie
+może zostać wyłączona zgodnie z prawem konsumenckim Australii. Masz prawo
+żądać wymiany lub zwrotu pieniędzy za poważną wadę oraz rekompensaty za
+wszelkie inne możliwe do przewidzenia straty lub szkody. Masz również prawo do
+naprawy lub wymiany treści, jeśli ich jakość nie jest zadowalająca a wady nie
+są poważnymi wadami;
+
+b) Dla użytkowników Nowej Zelandii: ani ta, ani jakakolwiek inna część
+niniejszej Umowy nie wyklucza, nie ogranicza ani nie modyfikuje stosowania
+jakichkolwiek praw lub środków zaradczych, które nie mogą być wykluczone
+ograniczone lub zmodyfikowane w szczególności tych zawartych w ustawie o
+gwarancjach konsumenckich w Nowej Zelandii z 1993 roku. Na podstawie tej
+ustawy towary i usługi objęte są gwarancją zgodnie z którą mają mieć
+akceptowalną jakość. Jeśli ta gwarancja nie zostanie spełniona, będziesz miał
+prawo uzyskania środków zaradczych takich, jak naprawa oprogramowania, wymiana
+lub zwrot pieniędzy. Jeżeli nie można zapewnić środka zaradczego lub istnieje
+poważna wada ustawa ta zapewnia Ci możliwość uzyskania zwrotu pieniędzy.
+
+  
+
+Nasza Dobrowolna Polityka Zwrotów
+
+  
+
+7.3. Rozumiemy, że czasem dokonany zakup nie spełnia oczekiwań i chcemy być
+fair w stosunku do użytkowników GOG, dlatego niezależnie od prawa do zwrotów
+(opisanego w ustępach 7.1-7.2 powyżej), możemy zaoferować Ci naszą Dobrowolną
+Politykę Zwrotów, opisaną
+szczegółowo[tutaj](https://support.gog.com/hc/pl/articles/360006129837). W
+niektórych przypadkach, jeśli mamy uzasadnione wątpliwości dotyczące Twojego
+wniosku o zwrot zakupionego produktu, Dobrowolna Polityka Zwrotów może nie
+zostać wzięta od uwagę. W żadnym wypadku nie pozbawi cię to jednak żadnych
+obowiązujących ustawowo praw do zwrotu pieniędzy. Zakup zostaje uznany za
+sfinalizowany w momencie wygaśnięcia Twojego prawa do zwrotu (chyba że podlega
+innym, odrębnym ustaleniom, w zależności od przypadku).  
+  
+##  8\. WALUTA WIRTUALNA I PRZEDMIOTY WIRTUALNE
+
+8.1 Wraz z niektórymi treściami GOG można kupić lub uzyskać wirtualne
+przedmioty i/lub wirtualną walutę (razem zwane „Towarami Wirtualnymi”). Towary
+Wirtualne podlegają postanowieniom niniejszej Umowy, w szczególności poniższym
+ogólnym zasadom, chyba że dla takich treści GOG obowiązują osobne szczególne
+zasady (które są w takim przypadku nadrzędne).
+
+  
+
+8.2 Wirtualne Towary są treściami cyfrowymi nieposiadającymi wartości
+pieniężnej i nieistniejące w rzeczywistym świecie. Nie można ich kupić,
+sprzedać, podarować, przekazać, zamienić na inne Towary Wirtualne, ani też na
+prawdziwe pieniądze, towary, usługi lub przedmioty posiadające wartość
+pieniężną. Handel Towarami Wirtualnymi jest zabroniony (chyba, że uzyskałeś
+wyraźną zgodę na takie działanie). Twoje prawo do korzystania z Towarów
+Wirtualnych jest ograniczone do ograniczonej, niewyłącznej, nieprzenoszalnej,
+odwołalnej licencji bez prawa do udzielania sublicencji na użytkowanie treści
+GOG wyłącznie dla celów prywatnych i dla własnej rozrywki. Nie posiadasz
+udziału, prawa ani tytułu do Towarów Wirtualnych, które pozostają własnością
+odpowiedniego wydawcy. Towary Wirtualne mogą być zmieniane, poprawiane i
+usuwane w razie potrzeby, w tym w celu realizacji niniejszej Umowy. W razie
+potrzeby możliwe jest również nałożenie ograniczeń na wykorzystanie Towarów
+Wirtualnych (w tym limitów transakcji i salda).
+
+  
+
+8.3 Istnienie specjalnej oferty na Towary Wirtualne nie zobowiązuje nas do
+kontynuowania oferowania Towarów Wirtualnych w ten sam sposób w przyszłości.
+Zakres, rodzaje i typy Towarów Wirtualnych, jakie możesz otrzymać mogą się
+zmieniać, a GOG może zarządzać, modyfikować i usuwać Towary Wirtualne, jeżeli
+uznamy to za konieczne do prawidłowego funkcjonowania GOG.COM, treści GOG lub
+z innych uzasadnionych powodów. W takim przypadku GOG nie ponosi żadnej
+odpowiedzialności za skorzystanie z tego prawa. Dołożymy uzasadnionych starań,
+aby powiadomić Cię o takich zmianach i uzasadnić ich powody.  
+  
+##  9\. ŁATKI, AKTUALIZACJE I ZMIANY
+
+9.1 Od czasu do czasu może wystąpić konieczność aktualizacji usług GOG lub
+treści GOG (np. aby dodać lub usunąć elementy lub też usunąć problemy z
+oprogramowaniem). Jest to konieczne dla prawidłowego funkcjonowania usług
+GOG.COM. Brak aktualizowania usług GOG lub treści GOG przez użytkownika może
+doprowadzić do niezgodności Twojej wersji z niektórymi funkcjami usług GOG lub
+treści GOG. Nie instalując aktualizacji ryzykujesz również niezainstalowanie
+ważnych aktualizacji bezpieczeństwa. Nasi Partnerzy również mogą wykorzystywać
+usługi GOG do wprowadzania łatek i aktualizacji odpowiednich treści GOG.
+
+  
+  
+  
+##  10\. TYTUŁ WŁASNOŚCI DO USŁUG GOG I PRAWA WŁASNOŚCI INTELEKTUALNEJ
+
+10.1 Usługi GOG, w tym (między innymi) grafika, kod, interfejs użytkownika,
+wygląd, dźwięki, filmy, tekst, układ, bazy danych, dane i wszystkie inne
+treści, a także prawa do ich eksploatacji należą do nas lub otrzymujemy na nie
+licencje od podmiotów zewnętrznych. Treści GOG stanowiące własność
+deweloperów/wydawców również podlegają licencji udzielonej GOG. Wszystkie
+prawa są zastrzeżone, chyba że stwierdziliśmy inaczej w niniejszej Umowie. Nie
+możesz wykorzystywać usług GOG i treści GOG w inny sposób niż określono w
+niniejszej Umowie.
+
+  
+
+10.2 GOG respektuje prawa innych podmiotów do ochrony własności
+intelektualnej. Więcej informacji można znaleźć[pod tym
+adresem](https://support.gog.com/hc/articles/16033687971613).  
+  
+##  11\. ZASADY KORZYSTANIA Z USŁUG GOG
+
+11.1 Prosimy, przestrzegaj poniższych zasad dotyczących usług i treści GOG, i
+wszystkich innych zasad, do których odsyłamy w punkcie 11.2 poniżej.
+Przeczytaj je dokładnie, gdyż ich nieprzestrzeganie (zwłaszcza w przypadku
+oszukiwania) będzie traktowane jako istotne naruszenie niniejszej Umowy, co
+może prowadzić do zawieszenia lub zablokowania dostępu do usług GOG. A oto
+zasady:
+
+  
+
+(a) Możesz korzystać z usług lub treści GOG wyłącznie do własnej rozrywki (nie
+możesz wykorzystywać ich w celach zarobkowych, do piractwa lub w celach
+politycznych).
+
+  
+
+(b) W zakresie treści GOG, to co możesz robić (w tym modyfikować, łączyć,
+dystrybuować, tłumaczyć, rozkładać na części, dekompilować, przekształcać i
+tworzyć prace pochodne) uzależnione jest od pozwolenia właściciela praw do
+danych treści GOG (GOG nie może przyznać takich praw), dlatego sprawdź te
+kwestie bezpośrednio z właścicielem tych praw (pierwszą rzeczą jaką powinieneś
+zrobić jest sprawdzenie, czy istnieje EULA i co ona zawiera). Prosimy również
+o podejmowanie tylko autentycznych prób ulepszania treści GOG.
+
+  
+
+(c) W zakresie usług GOG (obejmujących oprogramowanie GOG), jeżeli nie masz
+wcześniejszej zgody GOG, nie możesz ich modyfikować, łączyć, dystrybuować,
+tłumaczyć, przekształcać, dekompilować, rozkładać na części ani tworzyć z nich
+prac pochodnych - chyba, że dopuszcza to niniejsza Umowa lub prawo
+obowiązujące w Twoim kraju. Podkreślamy, że możesz zgłosić się do nas po zgodę
+na powyższe działania i będziemy odpowiadać na takie zgłoszenia w dobrej
+wierze. W przyszłości planujemy używać otwartych protokołów klienta, aby
+użytkownicy mogli pracować z danymi/oprogramowaniem GOG bez potrzeby
+programowania zwrotnego i podobnych działań.
+
+  
+
+(d) Nie możesz hakować, uszkadzać, zakłócać ani nadużywać usług i treści GOG,
+nie możesz podejmować podobnych działań względem użytkowników i personelu GOG,
+ani też wykorzystywać ich do takich działań.
+
+  
+
+(e) Nie możesz tworzyć, udostępniać i/lub dystrybuować cheatów, hacków,
+exploitów, automatycznego oprogramowania, robotów, botów, modów, pająków,
+oprogramowania szpiegującego, skryptów, narzędzi do uzyskiwania danych i
+innego oprogramowania, które w dowolny sposób wpływa na usługi GOG lub treści
+dostępne na GOG (w tym, między innymi, nieautoryzowanych programów osób
+trzecich, które przejmują, emulują lub przekierowują wiadomości pomiędzy GOG i
+partnerami GOG a usługami GOG, a także nieautoryzowanych programów osób
+trzecich, które zbierają dane o usługach GOG).
+
+  
+
+(f) Nie ingeruj w oprogramowanie sieciowe GOG i osób trzecich, ani inne
+oprogramowanie, w tym poprzez tunelowanie, osadzanie kodu, modyfikację lub
+zmianę oprogramowania GOG, używając jakiegokolwiek innego oprogramowania wraz
+z usługami lub treściami GOG, poprzez emulację protokołu, tworzenie lub
+korzystanie z serwerów prywatnych w zakresie usług lub treści GOG. Nie możesz
+próbować uzyskać dostępu do obszarów GOG.COM Aplikacji GOG GALAXY i serwerów
+GOG, które nie są dostępne publicznie.
+
+  
+
+(g) Nie mów, ani nie rób niczego co jest lub może być uznane za rasistowskie,
+ksenofobiczne, seksistowskie, zniesławiające lub w inny sposób obraźliwe lub
+niezgodne z prawem (np. wykorzystywanie nieletnich, zachęcanie do przemocy,
+uczestniczenie we fraudach). Bądźmy dla siebie mili!
+
+  
+
+(h) Nie możesz dzielić się, kupować, sprzedawać, przekazywać, oddawać,
+pożyczać, kraść ani sprzeniewierzać kont GOG. Klucze/kody GOG mogą być
+przekazywane innym tylko w sposób dozwolony przez GOG.COM. W przypadku pytań
+lub problemów skontaktuj się z obsługą klienta.
+
+  
+
+(i) Prosimy o przestrzeganie ograniczeń, wymogów i zasad dotyczących
+lokalizacji geograficznej lub regionu oraz języka w ramach GOG.COM.
+
+  
+
+(j) Prosimy abyś nie podejmował żadnych działań w związku z GOG, które
+naruszają prawa autorskie, znaki towarowe, patenty, tajemnice handlowe,
+prywatność i inne prawa osób trzecich, np. odnośnie do zdjęć, wizerunku,
+plików dźwiękowych, tekstowych i graficznych oraz innych materiałów i
+informacji.
+
+  
+
+11.2 Oprócz powyższych, poniżej znajduje się lista dodatkowych warunków, które
+mają zastosowanie do Ciebie podczas korzystania z usług GOG. Nie chcemy się
+powtarzać, ale należy pamiętać, że ich nieprzestrzeganie będzie stanowić
+istotne naruszenie niniejszej Umowy, co może prowadzić do zawieszenia lub
+zablokowania dostępu do usług GOG. Oto lista:
+
+  * Zasady Postępowania na GOG ([link](https://support.gog.com/hc/articles/16033977811613)) 
+
+  * Polityka dotycząca treści naruszających i dot. praw autorskich ([link](https://support.gog.com/hc/articles/16033687971613)). 
+
+  
+
+11.3 Za każdym razem, gdy podejmujemy decyzję moderacyjną skutkującą
+ograniczeniem Twojego dostępu do usług GOG, kiedykolwiek to możliwe powinieneś
+otrzymać uzasadnienie wskazujące, dlaczego podjęliśmy tę decyzję. Jeśli nie
+zgadzasz się z decyzją, którą podjęliśmy, masz 6 miesięcy na złożenie
+odwołania, liczonych od dnia, w którym poinformowaliśmy Cię o tej decyzji.
+Szczegóły dotyczące składania skarg powinny być dostępne w decyzji
+moderacyjnej. Opis naszej procedury systemu rozpatrywania skarg jest również
+dostępny w Polityce dotyczącej treści naruszających i dot. praw autorskich
+([tutaj](https://support.gog.com/hc/articles/16033687971613)). Tam możesz
+również znaleźć informacje dot. działań, które podejmujemy w przypadku
+nadużywania naszych systemów rozpatrywania skarg poprzez częste wnoszenie
+oczywiście bezzasadnych skarg.  
+  
+##  12\. TREŚCI GENEROWANE PRZEZ UŻYTKOWNIKA
+
+12.1. Niniejszy ustęp dotyczy treści (np. tekstów, materiałów wideo,
+fotografii, zrzutów z ekranu, tapet lub linków), które udostępniasz nam lub
+innym użytkownikom GOG w ramach usług GOG (np. poprzez swoje zdjęcie profilowe
+lub wiadomości do innych użytkowników GOG). Nazywamy je dalej „Treściami
+Generowanymi przez Użytkownika”.
+
+  
+
+12.2 Zakładamy, że zawsze jesteś właścicielem utworzonych przez siebie treści
+(Treści Wygenerowanych przez Użytkownika), lecz potrzebujemy ograniczonych
+praw do nich w celu transmitowania ich w ramach usług GOG. Dlatego też poprzez
+opublikowanie Treści Wygenerowanych przez Użytkownika, udzielasz nam
+niewyłącznej, nieodwołalnej licencji na korzystanie, modyfikację, odtwarzanie,
+tworzenie utworów zależnych, dystrybucję, przekazywanie i
+prezentowanie/wykonywanie publiczne Twoich Treści Generowanych przez
+Użytkownika w związku z usługami GOG.
+
+  
+
+12.3 Przed użyciem Treści Generowanych przez Użytkownika musisz upewnić się,
+że posiadasz wszelkie niezbędne do tego prawa, jak również sprawdzić, czy mogą
+one być bezpiecznie wykorzystywane - nie dysponujemy taką wiedzą i nie możemy
+tego sprawdzić, dlatego w tym przypadku ufamy Tobie.
+
+  
+
+12.4 Posiadamy jednakże prawo (lecz nie obowiązek) do przeglądu oraz, w razie
+potrzeby lub konieczności prawnej, usunięcia Treści Generowanych przez
+Użytkownika, które są niezgodne z prawem, zniesławiające, obsceniczne,
+nienawistne, rasistowskie, pornograficzne, naruszające prywatność innych,
+stanowiące groźbę lub nękanie. Jeżeli zauważysz takie treści w ramach usług
+GOG, powiadom nas o tym. Przeczytaj naszą Politykę treści naruszających i dot.
+praw autorskich ([tutaj](https://support.gog.com/hc/articles/16033687971613)),
+gdzie wyjaśniamy naszą procedurę zgłaszania treści naruszających. Jeśli po
+naszej wewnętrznej procedurze wciąż uważasz, że Twoja sprawa nie została w
+pełni rozwiązana, masz możliwość skorzystania z pozasądowego rozwiązywania
+sporów - więcej na ten temat w punkcie 20 poniżej.  
+  
+##  13\. INFORMACJE ZWROTNE I SUGESTIE
+
+13.1 Bardzo chętnie przyjmujemy opinie i sugestie dotyczące ulepszania usług
+GOG i wszystkie bardzo cenimy. W ramach wyjaśnienia zastrzegamy jednak, że nie
+mamy obowiązku ich wykorzystać czy akceptować, ani też nie jesteśmy Ci nic
+winni (finansowo lub w inny sposób) w zamian za ich otrzymanie.  
+  
+##  14\. WYKORZYSTANIE TREŚCI GOG W TWÓRCZOŚCI FANOWSKIEJ
+
+14.1 W zakresie twórczości fanowskiej (np. prac takich jak fanowskie
+modyfikacje gier, machinima, parodie, 'Let's Play', inne materiały wideo i
+ilustracje), musisz upewnić się, że właściciel takich treści (np. deweloper
+lub wydawca) wyraża zgodę i uzyskać jego pozwolenie. Powód jest prosty -
+treści GOG stanowią własność odpowiedniego właściciela, a nie GOG.  
+  
+##  15\. TREŚCI OSÓB TRZECICH I USŁUGI ZEWNĘTRZNE
+
+15.1 Usługi GOG mogą zawierać linki do stron internetowych lub treści osób
+trzecich. Decyzja o skorzystaniu z tych linków należy wyłącznie do Ciebie –
+nie możemy obiecać, że będą działały, jaki będzie ich wygląd, ani że będą
+darmowe.
+
+  
+
+15.2 Za pośrednictwem konta GOG możesz uzyskać dostęp do zewnętrznych usług
+Zaufanych Partnerów GOG, np. gier z serii Wiedźmin i stron naszej spółki
+powiązanej, CD PROJEKT. Podlegają one osobnym zasadom i regulaminom, których
+musisz przestrzegać. Korzystanie z takich usług jest opcjonalne - wybór należy
+wyłącznie do Ciebie.  
+  
+##  16\. GWARANCJE I OGRANICZENIE ODPOWIEDZIALNOŚCI W ZAKRESIE USŁUG GOG
+
+16.1 Gwarantujemy, że (i) jesteśmy uprawnieni do zawarcia niniejszej Umowy
+oraz do udzielenia licencji na korzystanie z usług GOG, o których mowa w ust.
+2.1, (ii) dołożymy uzasadnionej staranności w zakresie jakości usług GOG i
+korzystania z nich, (iii) wykonując zobowiązania wynikające z niniejszej Umowy
+dołożymy uzasadnionych starań w celu przestrzegania obowiązującego prawa.
+
+  
+
+16.2 Twoje oświadczenia i gwarancje. Oświadczasz i gwarantujesz, że jesteś
+uprawniony do zawarcia niniejszej Umowy i postępowania zgodnie z jej
+postanowieniami. Oświadczasz także, że wszystkie Treści Generowane przez
+Użytkownika przekazywane przez Ciebie za pośrednictwem usług GOG nie naruszają
+praw własności intelektualnej osób trzecich. Zobowiązujesz się, że nie
+będziesz wykorzystywał ani publikował Treści Generowanych przez Użytkownika,
+które są niezgodne z prawem, zniesławiające, obsceniczne, nienawistne,
+rasistowskie, pornograficzne, naruszające prywatność innych, stanowiące groźbę
+lub nękanie.
+
+  
+
+16.3 Wkładamy dużo pracy w to, żeby treści GOG działały w systemach naszych
+użytkowników, ale mamy ograniczony czas na testy i czasem zdarza się, że coś
+nie działa. Dlatego nie możemy przyjąć odpowiedzialności za treści GOG w
+większym zakresie niż wymagają tego przepisy prawa. Nie odpowiadamy także za
+wszelkie zdarzenia dotyczące GOG.COM i treści GOG, które są poza naszą
+kontrolą oraz nie gwarantujemy, że usługi GOG będą działać przez 100% czasu.
+Pamiętaj jednak, że możesz mieć prawo do zwrotu treści GOG i odzyskania
+wpłaconej kwoty w przypadku problemów technicznych - patrz ust. 7.3.  
+  
+##  17\. ROZWIĄZANIE UMOWY
+
+17.1. Twoje prawo do rozwiązania Umowy. Masz prawo rozwiązać niniejszą Umowę w
+dowolnym momencie, bez podawania przyczyny, poprzez zaprzestanie korzystania z
+usług GOG. Jeżeli mamy również usunąć Twoje konto, skontaktuj się z zespołem
+wsparcia [ pod tym adresem
+](https://support.gog.com/hc/requests/new?category=info&product=gog) albo po
+prostu wysyłając email na privacy@GOG.COM. Rozwiązanie Umowy nie wpływa na
+istniejące już zobowiązania z naszej strony i Twojej strony.
+
+  
+
+17.2 Prawo GOG do rozwiązania Umowy. W przypadku istotnego naruszenia
+niniejszej Umowy przez Ciebie zastrzegamy sobie prawo do zawieszenia lub
+zablokowania Twojego dostępu do usług i treści GOG. Istotne naruszenie
+niniejszej Umowy oznacza poważne naruszenie, które może mieć istotny negatywny
+wpływ na GOG, użytkowników GOG, w szczególności naruszenie postanowień ust. 11
+powyżej lub Zasad Postępowania na GOG. W przypadku zawieszenia lub
+zablokowania dostępu do usług lub treści GOG, podejmiemy uzasadnione
+działania, aby skontaktować się z Tobą, wyjaśnić Ci dlaczego podjęliśmy taką
+decyzję i (ewentualnie) co musisz zrobić żeby odzyskać dostęp.
+
+  
+
+17.3 Taka sytuacja wydaje się bardzo nieprawdopodobna, ale jeżeli na stałe
+przestaniemy udzielać dostępu do usług i treści GOG (z innych przyczyn niż
+naruszenie z Twojej strony), postaramy się ogłosić to z wyprzedzeniem co
+najmniej sześćdziesięciu (60) dni na www.gog.com i prześlemy e-mail do
+wszystkich zarejestrowanych użytkowników - w tym czasie będziesz mógł pobrać
+wszystkie zakupione treści GOG.  
+  
+##  18\. SIŁA WYŻSZA
+
+18.1 Ani my, ani Ty nie odpowiadamy za niewykonanie swoich zobowiązań na mocy
+niniejszej Umowy oraz brak dostępu do usług i treści GOG, jeżeli takie
+niewykonanie zostało spowodowane wydarzeniami niezależnymi od danej strony, w
+tym, między innymi, brakiem dostępu do Internetu, brakiem połączenia, pożarem,
+powodzią, wojną lub katastrofą naturalną.  
+  
+##  19\. WŁAŚCIWE PRAWO
+
+19.1. Ty i my uzgadniamy, że korzystanie z usług i treści GOG oraz niniejsza
+Umowa podlegają przepisom prawa polskiego, a wszelkie spory dotyczące
+niniejszej Umowy będą rozpatrywane przez sądy polskie. W przypadku
+postępowania sądowego dotyczącego niniejszej Umowy ,strona wygrywająca
+uprawniona jest do zwrotu swoich kosztów prawnych.
+
+  
+
+19.2 Powyższy wybór właściwego prawa i sądu nie ogranicza obowiązkowych zasad
+ochrony konsumenta i innych przepisów obowiązujących w kraju Twojego
+zamieszkania, które nie byłyby dostępne w innym wypadku.  
+  
+##  20\. WSPARCIE KLIENTA I ROZSTRZYGANIE SPORÓW
+
+20.1 W przypadku wątpliwości, zarzutów czy problemów będziemy chcieli
+rozstrzygnąć je szybko i polubownie tutaj
+https://support.gog.com/hc/requests/new?category=info. Dołożymy uzasadnionych
+starań w dobrej wierze, aby nieformalnie rozstrzygnąć wszelkie spory pomiędzy
+nami. Zobowiązujemy się odpowiedzieć na każde zapytanie w ciągu 14 dni.
+
+  
+
+20.2 W przypadku braku rozwiązania sporu w tym terminie, kolejne kroki zależą
+od miejsca Twojego zamieszkania. Jeżeli jesteś mieszkańcem Unii Europejskiej,
+możesz przekazać spór do rozpatrzenia na platformie online prowadzonej przez
+Komisję Europejską, dostępnej na[tej
+stronie](http://ec.europa.eu/consumers/odr/), aby rozwiązać spór pozasądowo
+lub wszcząć postępowanie. Możesz również wybrać rozwiązanie swojego sporu
+poprzez organ pozasądowego rozstrzygania sporów certyfikowany przez
+koordynatora do spraw usług cyfrowych Twojego państwa.  
+  
+##  21\. INNE INFORMACJE PRAWNE
+
+21.1 Jeżeli jakakolwiek część niniejszej Umowy zostanie uznana za bezskuteczną
+lub nieważną, nie wpływa to na pozostałe części Umowy.
+
+  
+
+21.2 Niniejsza Umowa (w tym wszystkie regulacje GOG w niej wspomniane)
+reguluje relacje pomiędzy GOG a Tobą (i odwrotnie), lecz nie powoduje
+powstania żadnych praw dla innych osób.
+
+  
+
+21.3 Pamiętaj, że podlegamy różnym przepisom prawa i możemy mieć obowiązek
+zastosowania się do wymagań uprawnionych organów państwowych lub innych
+przepisów prawa.
+
+  
+
+21.4 Ty i my uzgadniamy, że Konwencja Narodów Zjednoczonych o Międzynarodowej
+Sprzedaży Towarów nie ma zastosowania do niniejszej Umowy.
+
+  
+
+21.5. Jeżeli jesteś obywatelem Unii Europejskiej, wiedz, że umożliwiamy
+transgraniczne przenoszenie darmowych i płatnych treści zgodnie z
+rozporządzeniem (UE) 2017/1128 Parlamentu Europejskiego i Rady z dnia 14
+czerwca 2017 r. w sprawie transgranicznego przenoszenia na rynku wewnętrznym
+usług online w zakresie treści, jednak może ono podlegać innym wymogom
+prawnym, w tym w odniesieniu do ochrony własności intelektualnej oraz
+wymaganiom deweloperów oraz wydawców gier z którymi współpracuje GOG.  
+  
+##  22\. ZMIANY NINIEJSZEJ UMOWY
+
+22.1 Niniejsza Umowa może podlegać zmianom z przyczyn związanych z przepisami
+prawa lub zmianami usług lub treści GOG. Postanowienia niniejszej Umowy mogą
+być zmieniane tylko w sposób, który nie ogranicza Twoich praw. W przypadku
+takiej zmiany, udostępnimy zmienioną Umowę online pod adresem [
+https://support.gog.com/hc/articles/212632089
+](https://support.gog.com/hc/articles/212632089) i (jeśli posiadasz konto GOG)
+powiadomimy Cię e-mailowo o wszelkich istotnych zmianach.
+
+  
+
+22.2 Wszelkie zmiany niniejszej Umowy wchodzą w życie 30 dni po ich ogłoszeniu
+online. W międzyczasie możesz kontaktować się z nami na adres legal@gog.com
+jeśli masz konkretne pytania dotyczące wprowadzanych zmian.
+
+  
+
+22.3. Jeżeli nie wyrażasz zgody na takie zmiany (niezależnie od tego czy
+powiadomisz nas o tym e-mailem) będziemy zmuszeni poprosić Cię o zaprzestanie
+korzystania z usług i treści GOG. Jest nam przykro z tego powodu, lecz mamy
+nadzieję, że docenisz stosowanie jednolitych zasad dla wszystkich
+użytkowników, co jest konieczne, aby usługi GOG działały prawidłowo. Dlatego
+też w przypadku jakichkolwiek pytań zachęcamy do kontaktu.
+
+  
+
+22.4 Obiecujemy, że nigdy nie wprowadzimy zmian do niniejszej Umowy bez
+ostrzeżenia, nie informując Cię o tym i zmuszając do akceptacji zmian, których
+nie rozumiesz jako warunek korzystania z usług GOG.COM!  
+  
+##  23\. NASZE DANE KONTAKTOWE
+
+23.1 Jeżeli chcesz się z nami skontaktować w sprawie zakupu lub w innych
+kwestiach, poniżej podajemy nasze dane kontaktowe:
+
+  
+
+Nazwa: GOG sp. z o.o.
+
+  
+
+Siedziba: ul. Jagiellońska 74, 03-301 Warszawa, Polska
+
+  
+
+Spółka zarejestrowana przez Sąd Rejonowy w Warszawie, XIV Wydział Gospodarczy
+Krajowego Rejestru Sądowego
+
+  
+
+Numer KRS: 0000029514
+
+  
+
+NIP PL 113-21-77-807
+
+  
+
+Kapitał zakładowy: PLN 135 750,00
+
+  
+
+E-mail: legal@GOG.COM lub support@GOG.COM
+
+  
+
+Pojedynczy punkt kontaktowy dla organów:
+
+GOG Legal Team
+
+legal@GOG.COM
+
+Języki, w jakich się komunikujemy: angielski, polski
+
+  
+
+Pojedynczy punkt kontaktowy dla odbiorców usług GOG:
+
+GOG Support Team
+
+support@GOG.COM
+
+Mówimy głównie po polsku i angielsku, ale dokonamy starań, aby wesprzeć Cię w
+każdy języku, w którym GOG jest dostępny.
+
+Ostatnia aktualizacja (data wejścia w życie): 17 lutego 2024
+
+  
+
+Aby zobaczyć wcześniejszą wersję Umowy Użytkownika GOG,
+kliknij[tutaj](https://support.gog.com/hc/articles/212632089).  
+  
+  
+  
+
+
+
+
+-------------------------------
+
+
